@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.even{
+  background-color: antiquewhite;
+}
+.odd{
+  background-color: rgb(255, 206, 142);
+
+}
+.d-flex{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
